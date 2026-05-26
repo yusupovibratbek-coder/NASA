@@ -8,7 +8,7 @@ export default function Hero() {
                 <img className="w-full h-176 brightness-50" src="https://www.nasa.gov/wp-content/uploads/2026/03/2026-01-22-01.jpg" alt="" />
                 <div className="pl-5">
                     <div>
-                        <h1 className="text-7xl w-160 text-white font-mono font-semibold absolute top-1/6 ">Houston We Have a Podcast</h1>
+                        <h1 className="text-7xl w-160 text-white font-mono font-bold absolute top-1/6 ">Houston We Have a Podcast</h1>
                         <h1 className="text-gray-100 absolute top-1/5 pt-35 w-180">In the latest episode of "Housten We Haccve a Podcast," the CHAPEA Mission 2 crew shares tge latest updates from inside their yearlong simulatesd Mars mission at NASA's Johnson Space center, including updates on daily life, holiday celebrations, and habibat routines.</h1>
                     </div>
                     <div className="pt-20">
