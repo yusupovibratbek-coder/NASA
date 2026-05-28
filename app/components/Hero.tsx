@@ -12,7 +12,7 @@ export default function Hero() {
                         <h1 className="text-gray-100 absolute top-1/5 pt-35 w-180">In the latest episode of "Housten We Haccve a Podcast," the CHAPEA Mission 2 crew shares tge latest updates from inside their yearlong simulatesd Mars mission at NASA's Johnson Space center, including updates on daily life, holiday celebrations, and habibat routines.</h1>
                     </div>
                     <div className="pt-20">
-                        <Link className="text-white text-2xl font-bold font-mono bg-red-500 p-2 text-center rounded-lg w-30 absolute top-1/2 hover:bg-red-700 " href={'/listen'}>Listen</Link>
+                       <Link className="text-white text-2xl font-bold font-mono bg-red-500 p-3 w-35 absolute top-1/2 text-center hover:bg-red-700 rounded-lg" href={'/listen'}>Listen</Link>
                     </div>
                     <div>
                         <h1 className="text-gray-300 brightness-25 absolute top-1/2 pt-25">____________________________________________________________________________________________</h1>
